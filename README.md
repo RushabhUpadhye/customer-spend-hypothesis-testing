@@ -37,7 +37,6 @@ Most "data analysis" projects stop at charts and summary statistics. This projec
 ## 📁 Project Structure
 
 - `Statistics_Mini_Project.ipynb` — Full analysis notebook
-- `US_Customer_Insights_Dataset.csv` — Raw dataset
 - `README.md`
 
 ## 🚀 How to Run
