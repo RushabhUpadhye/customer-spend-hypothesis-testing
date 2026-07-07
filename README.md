@@ -35,6 +35,7 @@ Most "data analysis" projects stop at charts and summary statistics. This projec
 - **Techniques:** Exploratory Data Analysis (EDA), Data Cleaning, Independent t-test, One-Way ANOVA, Chi-square Test of Independence, Pearson Correlation, Hypothesis Testing (H₀ / H₁ framework, p-value interpretation)
 
 ## 📁 Project Structure
+
 ├── Statistics_Mini_Project.ipynb     # Full analysis notebook
 ├── US_Customer_Insights_Dataset.csv  # Raw dataset
 └── README.md
